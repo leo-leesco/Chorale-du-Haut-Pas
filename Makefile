@@ -1,8 +1,10 @@
-STATUTS = statuts.pdf
-all: pdf
+all: statuts.pdf reglement_interieur.pdf
 
-pdf: README.md
-	pandoc -o $(STATUTS) $<
+statuts.pdf: README.md
+	pandoc -o $@ $<
+
+%.pdf: %.md
+	pandoc -o $@ $<
 
 clean:
-	rm -f $(STATUTS)
+	rm -f *.pdf
