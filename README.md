@@ -3,17 +3,17 @@
 
 ## ARTICLE PREMIER - NOM
 
-Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre **"Chœur du Haut-Pas, sous la direction de Patrice Holiner"**. Dans les présents statuts, la mention de **Chœur** renverra à le **Chœur du Haut-Pas, sous la direction de Patrice Holiner**.
+Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre **"Chœur du Haut-Pas, sous la direction de Patrice Holiner"**. Dans les présents statuts, la mention de **Chœur** renverra au **Chœur du Haut-Pas, sous la direction de Patrice Holiner**.
 
-Le nom de le **Chœur** est susceptible de changer au cas où la direction musicale viendrait à changer.
+Le nom du **Chœur** est susceptible de changer au cas où la direction musicale viendrait à changer.
 
-Finalement, les membres de le **Chœur** sont appelés ci-après les **choristes** ou les membres de manière indifférente.
+Finalement, les membres du **Chœur** sont appelés ci-après les **choristes** ou les membres de manière indifférente.
 
 ## ARTICLE 2 - BUT ET OBJET
 
 Cette association a pour objet de permettre à ses membres de pratiquer le chant choral et son répertoire. Il s'agit en particulier d'aborder le "grand répertoire" qui fait rayonner la scène artistique parisienne et du Quartier Latin par sa diversité, son exigence et son raffinement.
 
-Dans cette optique, des répétitions engagent ses membres et constituent l'activité régulière de le **Chœur**.
+Dans cette optique, des répétitions engagent ses membres et constituent l'activité régulière du **Chœur**.
 
 ## ARTICLE 3 - SIÈGE SOCIAL
 
@@ -27,7 +27,7 @@ La durée de l’association est illimitée.
 
 L'association se compose de :
 
-1. Membres actifs s'acquittant de leur cotisation mensuelle dont les modalités sont détaillées à l'[article 7](#article-7-membres-cotisations). Ils sont répartis en pupitres (usuellement **S**oprane, **A**lto, **T**énor et **B**asse).
+1. Membres actifs s'acquittant duur cotisation mensuelle dont les modalités sont détaillées à l'[article 7](#article-7-membres-cotisations). Ils sont répartis en pupitres (usuellement **S**oprane, **A**lto, **T**énor et **B**asse).
 1. Membres bienfaiteurs
 1. Membres d'honneur
 
@@ -71,7 +71,7 @@ Les ressources de l'association comprennent :
 
 1. Le montant des dons et des cotisations;
 1. Les subventions de l'Etat, des départements et des communes;
-1. Toutes les ressources autorisées par les lois et règlements en vigueur. Cela inclut en particulier les recettes issues des concerts et autres représentations rémunérées et à l'occasion desquelles des spectateurs peuvent réaliser des dons au profit de le **Chœur**, mais aussi des instruments donnés ou prêtés, des salles et musiciens mis à disposition de le **Chœur** pour ses répétitions ou représentations.
+1. Toutes les ressources autorisées par les lois et règlements en vigueur. Cela inclut en particulier les recettes issues des concerts et autres représentations rémunérées et à l'occasion desquelles des spectateurs peuvent réaliser des dons au profit du **Chœur**, mais aussi des instruments donnés ou prêtés, des salles et musiciens mis à disposition du **Chœur** pour ses répétitions ou représentations.
 
 ## ARTICLE 11 - ASSEMBLEE GENERALE ORDINAIRE
 
@@ -81,7 +81,7 @@ Elle se réunit chaque année au mois d'Octobre.
 
 Quinze jours au moins avant la date fixée, les membres de l'association sont convoqués par les soins du secrétaire[^2]. L'ordre du jour figure sur les convocations.
 
-[^2]: ou le Président, ou le Directeur Musical, dans cet ordre, au cas où le précédent ne serait pas nommé ou en incapacité de le faire ; en cas de multiples convocations, la convocation qui prévaut est la plus récente émise dans l'ordre de priorité donné ci-avant.
+[^2]: ou le Président, ou le Directeur Musical, dans cet ordre, au cas où le précédent ne serait pas nommé ou en incapacité du faire ; en cas de multiples convocations, la convocation qui prévaut est la plus récente émise dans l'ordre de priorité donné ci-avant.
 
 Le président, assisté des membres du conseil, préside l'assemblée et expose la situation morale ou l’activité de l'association.
 
@@ -161,7 +161,7 @@ Les membres du bureau sont élus pour un mandat de trois ans, renouvelable une f
 
 ## ARTICLE 15 – INDEMNITES ET SALAIRES
 
-Toutes les fonctions, y compris celles des membres du conseil d’administration et du bureau, sont gratuites et bénévoles. Seuls les frais occasionnés par l’accomplissement de leur mandat sont remboursés sur justificatifs. Le rapport financier présenté à l’assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
+Toutes les fonctions, y compris celles des membres du conseil d’administration et du bureau, sont gratuites et bénévoles. Seuls les frais occasionnés par l’accomplissement duur mandat sont remboursés sur justificatifs. Le rapport financier présenté à l’assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
 
 Pour ses activités, le **Chœur** s'assurera, en plus de son Directeur Musical, le concours d'une pianiste professionnelle.
 
