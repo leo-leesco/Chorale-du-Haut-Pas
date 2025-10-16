@@ -1,20 +1,19 @@
 <!-- LTeX: language=fr-FR -->
-# Statuts de la Chorale du Haut-Pas, sous la direction de Patrice Holiner
+# Statuts de la Chœur du Haut-Pas, sous la direction de Patrice Holiner
 
 ## ARTICLE PREMIER - NOM
 
-Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre **"Chorale du Haut-Pas, sous la direction de Patrice Holiner"**. Dans les présents statuts, la mention de **Chorale** renverra à la **Chorale du Haut-Pas, sous la direction de Patrice Holiner**.
+Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre **"Chœur du Haut-Pas, sous la direction de Patrice Holiner"**. Dans les présents statuts, la mention de **Chœur** renverra à la **Chœur du Haut-Pas, sous la direction de Patrice Holiner**.
 
-Le nom de la **Chorale** est susceptible de changer au cas où la direction artistique viendrait à changer.
+Le nom de la **Chœur** est susceptible de changer au cas où la direction musicale viendrait à changer.
 
-Finalement, les membres de la **Chorale** sont appelés ci-après les **choristes** ou les membres de manière indifférente.
+Finalement, les membres de la **Chœur** sont appelés ci-après les **choristes** ou les membres de manière indifférente.
 
 ## ARTICLE 2 - BUT ET OBJET
 
 Cette association a pour objet de permettre à ses membres de pratiquer le chant choral et son répertoire. Il s'agit en particulier d'aborder le "grand répertoire" qui fait rayonner la scène artistique parisienne et du Quartier Latin par sa diversité, son exigence et son raffinement.
 
-Dans cette optique, des répétitions engagent ses membres et constituent l'activité régulière de la **Chorale**.
-
+Dans cette optique, des répétitions engagent ses membres et constituent l'activité régulière de la **Chœur**.
 
 ## ARTICLE 3 - SIÈGE SOCIAL
 
@@ -38,11 +37,13 @@ L'association se compose de :
 
 ## ARTICLE 7 - MEMBRES – COTISATIONS
 
-Sont membres actifs ceux qui ont pris l'engagement de verser mensuellement une somme de 20 € à titre de cotisation.
+Sont membres actifs ceux qui versent un droit d'entrée de 40 € et ont pris l'engagement de verser mensuellement une somme de 10 € à titre de cotisation.
 
 Sont membres d'honneur ceux qui ont rendu des services signalés à l'association ; ils sont dispensés de cotisations.
 
-Sont membres bienfaiteurs, les personnes qui versent annuellement[^1] un don d'au moins 60 € et une cotisation annuelle (de 20 €) fixée chaque année par l'assemblée générale.
+Sont membres bienfaiteurs, les personnes qui versent de surcroît annuellement[^1] un don dont le montant est prévu dans le règlement intérieur.
+
+<!-- Sont membres bienfaiteurs, les personnes qui versent de surcroît annuellement[^1] un don d'au moins 400 € et une cotisation annuelle (de 20 €) fixée chaque année par l'assemblée générale ; dans certains cas prévus par le règlement intérieur, le montant du don peut être ajusté -->
 
 [^1]: le montant du don considéré est la somme des dons reçus pendant l'année scolaire courante.
 
@@ -62,7 +63,7 @@ Les modalités de radiation, les possibilités de défense et de recours du memb
 
 ## ARTICLE 9 - AFFILIATION
 
-Sans être présentement affiliée à une fédération ou autres regroupements, la **Chorale** peut adhérer à d’autres associations, unions ou regroupements par décision du conseil d’administration.
+Sans être présentement affiliée à une fédération ou autres regroupements, la **Chœur** peut adhérer à d’autres associations, unions ou regroupements par décision du conseil d’administration.
 
 ## ARTICLE 10 - RESSOURCES
 
@@ -70,7 +71,7 @@ Les ressources de l'association comprennent :
 
 1. Le montant des dons et des cotisations;
 1. Les subventions de l'Etat, des départements et des communes;
-1. Toutes les ressources autorisées par les lois et règlements en vigueur. Cela inclut en particulier les recettes issues des concerts et autres représentations rémunérées et à l'occasion desquelles des spectateurs peuvent réaliser des dons au profit de la **Chorale**, mais aussi des instruments donnés ou prêtés, des salles et musiciens mis à disposition de la **Chorale** pour ses répétitions ou représentations.
+1. Toutes les ressources autorisées par les lois et règlements en vigueur. Cela inclut en particulier les recettes issues des concerts et autres représentations rémunérées et à l'occasion desquelles des spectateurs peuvent réaliser des dons au profit de la **Chœur**, mais aussi des instruments donnés ou prêtés, des salles et musiciens mis à disposition de la **Chœur** pour ses répétitions ou représentations.
 
 ## ARTICLE 11 - ASSEMBLEE GENERALE ORDINAIRE
 
@@ -80,7 +81,7 @@ Elle se réunit chaque année au mois d'Octobre.
 
 Quinze jours au moins avant la date fixée, les membres de l'association sont convoqués par les soins du secrétaire[^2]. L'ordre du jour figure sur les convocations.
 
-[^2]: ou le Président, ou le Directeur Artistique, dans cet ordre, au cas où le précédent ne serait pas nommé ou en incapacité de le faire ; en cas de multiples convocations, la convocation qui prévaut est la plus récente émise dans l'ordre de priorité donné ci-avant.
+[^2]: ou le Président, ou le Directeur Musical, dans cet ordre, au cas où le précédent ne serait pas nommé ou en incapacité de le faire ; en cas de multiples convocations, la convocation qui prévaut est la plus récente émise dans l'ordre de priorité donné ci-avant.
 
 Le président, assisté des membres du conseil, préside l'assemblée et expose la situation morale ou l’activité de l'association.
 
@@ -96,7 +97,7 @@ Il est procédé, après épuisement de l'ordre du jour, au renouvellement des m
 
 Les résolutions adoptées en assemblée générale ordinaire sont valides à condition que :
 
-1. un quorum d'au moins 25% (cinq pourcents) des membres actifs soit atteint;
+1. un quorum d'au moins 25% (vingt-cinq pourcents) des membres actifs soit atteint;
 1. les résolutions soient adoptées à la majorité absolue, c'est-à-dire strictement plus de 50% (cinquante pourcents) des membres présents ou représentés.
 
 Un membre est considéré **présent** dès lors qu'il est physiquement présent à l'assemblée générale ordinaire, ou disposant d'une connexion audio et vidéo de qualité suffisante comprendre l'ensemble des résolutions ainsi qu'exprimer sans équivoque son vote. Un membre est considéré comme représenté si son représentant est physiquement présent à l'assemblée générale ordinaire, et jouit d'une procuration, sur tout ou partie des résolutions préalablement annoncées au-travers de la convocation, qui aura été rendue acceptée par le bureau. Les conditions d'une telle acceptation sont de fournir une procuration écrite, signée par les deux parties et datée, stipulant le champ d'action de la présente procuration et son récipiendaire. Son dépôt devra être réalisé en présentiel par un membre du bureau.
@@ -119,9 +120,11 @@ Les délibérations sont prises à la majorité des membres **présents**, sans 
 
 <!-- La loi de 1901 n’impose pas l’existence d’un conseil d’administration ou d’un bureau. Ce n’est qu’un usage, pratique et très répandu. -->
 
-L'association est dirigée par un conseil de 5 membres ou de 10% (dix pourcents) des membres actifs et **présents** à l'assemblée générale ordinaire, le nombre le plus élevé étant retenu, élus pour 1 année par l'assemblée générale. Les membres sont rééligibles.
+L'association est dirigée par un conseil de 5 membres ou de 10% (dix pourcents) des membres actifs et **présents** à l'assemblée générale ordinaire, le nombre le plus élevé étant retenu, élus pour une année par l'assemblée générale. Les membres sont rééligibles au plus une fois consécutivement. Hormis impossiblité, chaque pupitre doit être représenté.
 
-Le conseil étant renouvelé chaque année par moitié, la première année, les membres sortants sont désignés par tirage au sort.
+Les membres fondateurs et le Directeur Musical sont membres de droit du conseil d'administration.
+
+Le conseil étant renouvelé chaque année par moitié, la première année, les membres sortants sont ceux n'étant pas présent au bureau.
 
 <!-- Le renouvellement des membres du conseil par fraction est préférable. -->
 
@@ -150,13 +153,24 @@ Le conseil d'administration élit parmi ses membres, un bureau composé de :
 
 Les postes de président et de trésoriers ne sont pas cumulables. Les fonctions, attributions et pouvoirs respectifs des membres du bureau sont précisés dans le règlement intérieur approuvé en assemblée générale ordinaire.
 
+Les membres fondateurs auront, pour la première année, les postes de président-secrétaire et trésorier.
+
+Les membres du bureau sont élus pour un mandat de trois ans, renouvelable une fois.
+
 <!-- Pour prévenir des difficultés fréquentes, préciser que les fonctions de président et de trésorier ne sont pas cumulables. Préciser, ici ou dans un règlement intérieur, les fonctions, attributions et pouvoirs respectifs des membres du bureau. -->
 
-## ARTICLE 15 – INDEMNITES
+## ARTICLE 15 – INDEMNITES ET SALAIRES
 
 Toutes les fonctions, y compris celles des membres du conseil d’administration et du bureau, sont gratuites et bénévoles. Seuls les frais occasionnés par l’accomplissement de leur mandat sont remboursés sur justificatifs. Le rapport financier présenté à l’assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
 
-Ces dispositions peuvent être affinées dans un règlement intérieur (nature des frais, des missions, qualité des bénéficiaires, etc.)
+Pour ses activités, le **Chœur** s'assurera, en plus de son Directeur Musical, le concours d'une pianiste professionnelle.
+
+Ces dispositions peuvent être affinées par le règlement intérieur (nature des frais, des missions, qualité des bénéficiaires, etc.)
+
+<!--
+pianiste : 35 net €/h (concrètement 70 € brut)
+DM : 150 net €/répétition
+-->
 
 ## ARTICLE 16 - REGLEMENT INTERIEUR
 
@@ -168,14 +182,18 @@ Ce règlement éventuel est destiné à fixer les divers points non prévus par 
 
 En cas de dissolution prononcée selon les modalités prévues à l’article 12, un ou plusieurs liquidateurs sont nommés, et l'actif net, s'il y a lieu, est dévolu à un organisme ayant un but non lucratif (ou à une association ayant des buts similaires) conformément aux décisions de l’assemblée générale extraordinaire qui statue sur la dissolution. L’actif net ne peut être dévolu à un membre de l’association, même partiellement, sauf reprise d’un apport.
 
-Ne pas interdire l’attribution de l’actif net à un membre pourrait compromettre le critère de gestion désintéressée, déclinaison fiscale de l’article 1er de loi de 1901, et donc la qualification  d’intérêt général.
+<!-- Ne pas interdire l’attribution de l’actif net à un membre pourrait compromettre le critère de gestion désintéressée, déclinaison fiscale de l’article 1er de loi de 1901, et donc la qualification  d’intérêt général. -->
 
-## ARTICLE 18 - LIBERALITES :
+## ARTICLE 18 - LIBERALITES
 
-Article à insérer  pour pouvoir accepter des legs -testaments- et des donations -entre vifs- (article 6 de la loi du 1er juillet 1901).
+<!-- Article à insérer pour pouvoir accepter des legs -testaments- et des donations -entre vifs- (article 6 de la loi du 1er juillet 1901). -->
 
 Le rapport et les comptes annuels, tels que définis à l’article 11 (y compris ceux des comités locaux) sont adressés chaque année au Préfet du département.
 
 L’association s’engage à présenter ses registres et pièces de comptabilité sur toute réquisition des autorités administratives en ce qui concerne l’emploi des libéralités qu’elle serait autorisée à recevoir, à laisser visiter ses établissements par les représentants de ces autorités compétents et à leur rendre compte du fonctionnement desdits établissements.
 
 Fait à Paris, le mercredi 15 octobre 2025.
+
+<br/>
+<br/>
+<br/>
