@@ -17,7 +17,7 @@ Dans cette optique, des répétitions engagent ses membres et constituent l'acti
 
 ## ARTICLE 3 - SIÈGE SOCIAL
 
-Le siège social est fixé au <adresse de François> et peut-être amené à changer sur décision du bureau.
+Le siège social est fixé au 25 rue Pierre Nicole, 75005 Paris, et peut-être amené à changer sur décision du bureau.
 
 ## ARTICLE 4 - DUREE
 
