@@ -1,19 +1,19 @@
 <!-- LTeX: language=fr-FR -->
-# Statuts de la Chœur du Haut-Pas, sous la direction de Patrice Holiner
+# Statuts du Chœur du Haut-Pas, sous la direction de Patrice Holiner
 
 ## ARTICLE PREMIER - NOM
 
-Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre **"Chœur du Haut-Pas, sous la direction de Patrice Holiner"**. Dans les présents statuts, la mention de **Chœur** renverra à la **Chœur du Haut-Pas, sous la direction de Patrice Holiner**.
+Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre **"Chœur du Haut-Pas, sous la direction de Patrice Holiner"**. Dans les présents statuts, la mention de **Chœur** renverra à le **Chœur du Haut-Pas, sous la direction de Patrice Holiner**.
 
-Le nom de la **Chœur** est susceptible de changer au cas où la direction musicale viendrait à changer.
+Le nom de le **Chœur** est susceptible de changer au cas où la direction musicale viendrait à changer.
 
-Finalement, les membres de la **Chœur** sont appelés ci-après les **choristes** ou les membres de manière indifférente.
+Finalement, les membres de le **Chœur** sont appelés ci-après les **choristes** ou les membres de manière indifférente.
 
 ## ARTICLE 2 - BUT ET OBJET
 
 Cette association a pour objet de permettre à ses membres de pratiquer le chant choral et son répertoire. Il s'agit en particulier d'aborder le "grand répertoire" qui fait rayonner la scène artistique parisienne et du Quartier Latin par sa diversité, son exigence et son raffinement.
 
-Dans cette optique, des répétitions engagent ses membres et constituent l'activité régulière de la **Chœur**.
+Dans cette optique, des répétitions engagent ses membres et constituent l'activité régulière de le **Chœur**.
 
 ## ARTICLE 3 - SIÈGE SOCIAL
 
@@ -63,7 +63,7 @@ Les modalités de radiation, les possibilités de défense et de recours du memb
 
 ## ARTICLE 9 - AFFILIATION
 
-Sans être présentement affiliée à une fédération ou autres regroupements, la **Chœur** peut adhérer à d’autres associations, unions ou regroupements par décision du conseil d’administration.
+Sans être présentement affiliée à une fédération ou autres regroupements, le **Chœur** peut adhérer à d’autres associations, unions ou regroupements par décision du conseil d’administration.
 
 ## ARTICLE 10 - RESSOURCES
 
@@ -71,7 +71,7 @@ Les ressources de l'association comprennent :
 
 1. Le montant des dons et des cotisations;
 1. Les subventions de l'Etat, des départements et des communes;
-1. Toutes les ressources autorisées par les lois et règlements en vigueur. Cela inclut en particulier les recettes issues des concerts et autres représentations rémunérées et à l'occasion desquelles des spectateurs peuvent réaliser des dons au profit de la **Chœur**, mais aussi des instruments donnés ou prêtés, des salles et musiciens mis à disposition de la **Chœur** pour ses répétitions ou représentations.
+1. Toutes les ressources autorisées par les lois et règlements en vigueur. Cela inclut en particulier les recettes issues des concerts et autres représentations rémunérées et à l'occasion desquelles des spectateurs peuvent réaliser des dons au profit de le **Chœur**, mais aussi des instruments donnés ou prêtés, des salles et musiciens mis à disposition de le **Chœur** pour ses répétitions ou représentations.
 
 ## ARTICLE 11 - ASSEMBLEE GENERALE ORDINAIRE
 
