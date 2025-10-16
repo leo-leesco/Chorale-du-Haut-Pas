@@ -35,7 +35,7 @@ L'association se compose de :
 
 À la discrétion du chef de chœur, les nouveaux membres pourront être soumis à une audition qui conditionnera l'admission au chœur et la répartition dans les pupitres. À mesure que les **choristes** progressent, leur position dans les pupitres peut également évoluer.
 
-## ARTICLE 7 - MEMBRES – COTISATIONS
+## ARTICLE 7 - MEMBRES – COTISATIONS {#article-7-membres-cotisations}
 
 Sont membres actifs ceux qui versent un droit d'entrée de 40 € et ont pris l'engagement de verser mensuellement une somme de 10 € à titre de cotisation.
 
