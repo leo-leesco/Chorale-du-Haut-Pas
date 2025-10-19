@@ -195,5 +195,6 @@ L’association s’engage à présenter ses registres et pièces de comptabilit
 Fait à Paris, le mercredi 15 octobre 2025.
 
 <br/>
+Lu et approuvé par le Président fondateur, Léo LEESCO
 <br/>
-<br/>
+Lu et approuvé par le Trésorier fondateur, François LELOUP
