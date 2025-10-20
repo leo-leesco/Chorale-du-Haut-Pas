@@ -112,7 +112,7 @@ Les décisions des assemblées générales s’imposent à tous les membres, y c
 
 ## ARTICLE 12 - ASSEMBLEE GENERALE EXTRAORDINAIRE
 
-Si besoin est, ou sur la demande d'un quart plus un des membres actifs, le président peut convoquer une assemblée générale extraordinaire, suivant les modalités prévues aux présents statuts et uniquement pour modification des statuts ou la dissolution ou pour des actes portant sur des immeubles.
+Si besoin est, ou sur la demande d'un quart plus un des membres actifs, le président peut convoquer une assemblée générale extraordinaire, suivant les modalités prévues aux présents statuts et uniquement pour modification des statuts, ou du règlement intérieur, ou la dissolution ou pour des actes portant sur des immeubles.
 
 Les modalités de convocation sont les mêmes que pour l’assemblée générale ordinaire.
 
@@ -163,7 +163,7 @@ Les membres du bureau sont élus pour un mandat de trois ans, renouvelable une f
 
 ## ARTICLE 15 – INDEMNITES ET SALAIRES
 
-Toutes les fonctions, y compris celles des membres du conseil d’administration et du bureau, sont gratuites et bénévoles. Seuls les frais occasionnés par l’accomplissement duur mandat sont remboursés sur justificatifs. Le rapport financier présenté à l’assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
+Toutes les fonctions, y compris celles des membres du conseil d’administration et du bureau, sont gratuites et bénévoles. Seuls les frais occasionnés par l’accomplissement d'un mandat sont remboursés sur justificatifs. Le rapport financier présenté à l’assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
 
 Pour ses activités, le **Chœur** s'assurera, en plus de son Directeur Musical, le concours d'une pianiste professionnelle.
 
