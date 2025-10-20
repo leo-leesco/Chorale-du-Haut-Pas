@@ -27,4 +27,4 @@ Les motifs graves incluent des postures publiques incompatibles avec l'esprit de
 
 ## Indemnités et salaires
 
-Fait à Paris, le lundi 3 novembre 2025.
+Fait à Paris, le lundi 10 novembre 2025.
