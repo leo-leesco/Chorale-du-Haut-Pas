@@ -1,4 +1,4 @@
-all: statuts.pdf reglement_interieur.pdf
+all: statuts.pdf reglement_interieur.pdf AG_constitutive.pdf
 
 statuts.pdf: README.md
 	pandoc -o $@ $<

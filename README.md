@@ -124,7 +124,7 @@ Les délibérations sont prises à la majorité des membres **présents**, sans 
 
 L'association est dirigée par un conseil d'administration de 5 membres ou de 10% (dix pourcents) des membres actifs et **présents** à l'assemblée générale ordinaire, le nombre le plus élevé étant retenu, élus pour une année par l'assemblée générale. Les membres sont rééligibles au plus une fois consécutivement. Hormis impossiblité, chaque pupitre doit être représenté.
 
-Les membres fondateurs et le Directeur Musical sont membres de droit du conseil d'administration.
+Les membres fondateurs élus au bureau et le Directeur Musical sont membres de droit du conseil d'administration.
 
 Le conseil étant renouvelé chaque année par moitié, la première année, les membres sortants sont ceux n'étant pas présent au bureau.
 
