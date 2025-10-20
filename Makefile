@@ -1,4 +1,7 @@
-all: statuts.pdf reglement_interieur.pdf AG_constitutive.pdf
+MD_SOURCES = $(filter-out README.md, $(wildcard *.md))
+PDF_TARGETS = $(patsubst %.md, %.pdf, $(MD_SOURCES))
+
+all: statuts.pdf $(PDF_TARGETS)
 
 statuts.pdf: README.md
 	pandoc -o $@ $<
