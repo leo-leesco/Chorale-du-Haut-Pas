@@ -27,7 +27,7 @@ La durée de l’association est illimitée.
 
 L'association se compose de :
 
-1. Membres actifs s'acquittant duur cotisation mensuelle dont les modalités sont détaillées à l'[article 7](#article-7-membres-cotisations). Ils sont répartis en pupitres (usuellement **S**oprane, **A**lto, **T**énor et **B**asse).
+1. Membres actifs s'acquittant d'une cotisation mensuelle dont les modalités sont détaillées à l'[article 7](#article-7-membres-cotisations). Ils sont répartis en pupitres (usuellement **S**oprane, **A**lto, **T**énor et **B**asse).
 1. Membres bienfaiteurs
 1. Membres d'honneur
 
@@ -51,6 +51,8 @@ Toute cotisation pourra être rachetée moyennant le paiement d'une somme minima
 
 Les catégories de membre peuvent évoluer à la faveur d'une résolution votée en assemblée générale.
 
+Les membres peuvent être exonérés de leur cotisation à certaines occasions qui sont précisées dans le règlement intérieur.
+
 ## ARTICLE 8 - RADIATIONS
 
 La qualité de membre se perd par :
@@ -70,7 +72,7 @@ Sans être présentement affiliée à une fédération ou autres regroupements, 
 Les ressources de l'association comprennent :
 
 1. Le montant des dons et des cotisations;
-1. Les subventions de l'Etat, des départements et des communes;
+1. Les subventions de l'Etat, des régions, des départements et des communes;
 1. Toutes les ressources autorisées par les lois et règlements en vigueur. Cela inclut en particulier les recettes issues des concerts et autres représentations rémunérées et à l'occasion desquelles des spectateurs peuvent réaliser des dons au profit du **Chœur**, mais aussi des instruments donnés ou prêtés, des salles et musiciens mis à disposition du **Chœur** pour ses répétitions ou représentations.
 
 ## ARTICLE 11 - ASSEMBLEE GENERALE ORDINAIRE
@@ -83,7 +85,7 @@ Quinze jours au moins avant la date fixée, les membres de l'association sont co
 
 [^2]: ou le Président, ou le Directeur Musical, dans cet ordre, au cas où le précédent ne serait pas nommé ou en incapacité du faire ; en cas de multiples convocations, la convocation qui prévaut est la plus récente émise dans l'ordre de priorité donné ci-avant.
 
-Le président, assisté des membres du conseil, préside l'assemblée et expose la situation morale ou l’activité de l'association.
+Le président, assisté des membres du conseil d'administration, préside l'assemblée et expose la situation morale ou l’activité de l'association.
 
 Le trésorier rend compte de sa gestion et soumet les comptes annuels (bilan, compte de résultat et annexe) à l'approbation de l'assemblée.
 
@@ -100,11 +102,11 @@ Les résolutions adoptées en assemblée générale ordinaire sont valides à co
 1. un quorum d'au moins 25% (vingt-cinq pourcents) des membres actifs soit atteint;
 1. les résolutions soient adoptées à la majorité absolue, c'est-à-dire strictement plus de 50% (cinquante pourcents) des membres présents ou représentés.
 
-Un membre est considéré **présent** dès lors qu'il est physiquement présent à l'assemblée générale ordinaire, ou disposant d'une connexion audio et vidéo de qualité suffisante comprendre l'ensemble des résolutions ainsi qu'exprimer sans équivoque son vote. Un membre est considéré comme représenté si son représentant est physiquement présent à l'assemblée générale ordinaire, et jouit d'une procuration, sur tout ou partie des résolutions préalablement annoncées au-travers de la convocation, qui aura été rendue acceptée par le bureau. Les conditions d'une telle acceptation sont de fournir une procuration écrite, signée par les deux parties et datée, stipulant le champ d'action de la présente procuration et son récipiendaire. Son dépôt devra être réalisé en présentiel par un membre du bureau.
+Un membre est considéré **présent** dès lors qu'il est physiquement présent à l'assemblée générale ordinaire, ou disposant d'une connexion audio et vidéo de qualité suffisante pour comprendre l'ensemble des résolutions ainsi qu'exprimer sans équivoque son vote. Un membre est considéré comme représenté si son représentant est physiquement présent à l'assemblée générale ordinaire, et jouit d'une procuration, sur tout ou partie des résolutions préalablement annoncées au-travers de la convocation, qui aura été rendue acceptée par le bureau. Les conditions d'une telle acceptation sont de fournir une procuration écrite, signée par les deux parties et datée, stipulant le champ d'action de la présente procuration et son récipiendaire. Son dépôt devra être réalisé en présentiel par un membre du bureau.
 
 <!-- Il est prudent de fixer des conditions de quorum et de majorité pour la validité des délibérations de l'assemblée générale ordinaire Prévoir les règles de représentation des membres absents si nécessaire. -->
 
-Toutes les délibérations sont prises à main levée, excepté l’élection des membres du conseil.
+Toutes les délibérations sont prises à main levée, excepté l’élection des membres du conseil d'administration.
 
 Les décisions des assemblées générales s’imposent à tous les membres, y compris absents ou représentés.
 
@@ -120,7 +122,7 @@ Les délibérations sont prises à la majorité des membres **présents**, sans 
 
 <!-- La loi de 1901 n’impose pas l’existence d’un conseil d’administration ou d’un bureau. Ce n’est qu’un usage, pratique et très répandu. -->
 
-L'association est dirigée par un conseil de 5 membres ou de 10% (dix pourcents) des membres actifs et **présents** à l'assemblée générale ordinaire, le nombre le plus élevé étant retenu, élus pour une année par l'assemblée générale. Les membres sont rééligibles au plus une fois consécutivement. Hormis impossiblité, chaque pupitre doit être représenté.
+L'association est dirigée par un conseil d'administration de 5 membres ou de 10% (dix pourcents) des membres actifs et **présents** à l'assemblée générale ordinaire, le nombre le plus élevé étant retenu, élus pour une année par l'assemblée générale. Les membres sont rééligibles au plus une fois consécutivement. Hormis impossiblité, chaque pupitre doit être représenté.
 
 Les membres fondateurs et le Directeur Musical sont membres de droit du conseil d'administration.
 
@@ -138,7 +140,7 @@ Les décisions sont prises à la majorité des voix; en cas de partage, la voix 
 
 Tout membre du conseil qui, sans excuse, n'aura pas assisté à trois réunions consécutives sera considéré comme démissionnaire.
 
-Le conseil d’administration peut déléguer tel ou tel de ses pouvoirs, pour une durée déterminée, à un ou plusieurs de ses membres (signature d’un bail des chèques, etc.). <!--Depuis 2011, des précisions ont été apportées, par un nouvel article 2 bis, à la loi du 1er juillet 1901 pour faciliter la création et la gestion d’une association par des mineurs. (Télécharger la plaquette du ministère chargé de la vie associative) -->
+Le conseil d’administration peut déléguer tel ou tel de ses pouvoirs, pour une durée déterminée, à un ou plusieurs de ses membres (signature d’un bail, des chèques, etc.). <!--Depuis 2011, des précisions ont été apportées, par un nouvel article 2 bis, à la loi du 1er juillet 1901 pour faciliter la création et la gestion d’une association par des mineurs. (Télécharger la plaquette du ministère chargé de la vie associative) -->
 
 Les mineurs ne peuvent pas faire partie du conseil d'administration.
 
@@ -155,7 +157,7 @@ Les postes de président et de trésoriers ne sont pas cumulables. Les fonctions
 
 Les membres fondateurs auront, pour la première année, les postes de président-secrétaire et trésorier.
 
-Les membres du bureau sont élus pour un mandat de trois ans, renouvelable une fois.
+Les membres du bureau sont élus pour un mandat de trois ans, renouvelable une fois, hormis le bureau fondateur qui est élu pour un an.
 
 <!-- Pour prévenir des difficultés fréquentes, préciser que les fonctions de président et de trésorier ne sont pas cumulables. Préciser, ici ou dans un règlement intérieur, les fonctions, attributions et pouvoirs respectifs des membres du bureau. -->
 
@@ -192,7 +194,7 @@ Le rapport et les comptes annuels, tels que définis à l’article 11 (y compri
 
 L’association s’engage à présenter ses registres et pièces de comptabilité sur toute réquisition des autorités administratives en ce qui concerne l’emploi des libéralités qu’elle serait autorisée à recevoir, à laisser visiter ses établissements par les représentants de ces autorités compétents et à leur rendre compte du fonctionnement desdits établissements.
 
-Fait à Paris, le mercredi 15 octobre 2025.
+Fait à Paris, le lundi 20 octobre 2025.
 
 <br/>
 Lu et approuvé par le Président fondateur, Léo LEESCO
