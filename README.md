@@ -1,9 +1,9 @@
 <!-- LTeX: language=fr-FR -->
-# Statuts du Chœur du Haut-Pas, sous la direction de Patrice Holiner
+# Statuts du Chœur du Haut-Pas, direction Patrice Holiner
 
 ## ARTICLE PREMIER - NOM
 
-Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre **"Chœur du Haut-Pas, sous la direction de Patrice Holiner"**. Dans les présents statuts, la mention de **Chœur** renverra au **Chœur du Haut-Pas, sous la direction de Patrice Holiner**.
+Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre **"Chœur du Haut-Pas, direction Patrice Holiner"**. Dans les présents statuts, la mention de **Chœur** renverra au **Chœur du Haut-Pas, direction Patrice Holiner**.
 
 Le nom du **Chœur** est susceptible de changer au cas où la direction musicale viendrait à changer.
 
@@ -196,7 +196,6 @@ L’association s’engage à présenter ses registres et pièces de comptabilit
 
 Fait à Paris, le lundi 20 octobre 2025.
 
-<br/>
 Lu et approuvé par le Président fondateur, Léo LEESCO
-<br/>
+
 Lu et approuvé par le Trésorier fondateur, François LELOUP
