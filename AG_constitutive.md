@@ -34,20 +34,18 @@ Après quoi, personne ne demandant plus la parole, le président met successivem
 L’assemblée générale adopte les statuts dont le projet lui a été soumis.
 Cette délibération est adoptée à l’unanimité.
 
-Attention : Si cette délibération n’est pas adoptée à l’unanimité, il faut indiquer quelles sont les personnes ayant voté le projet de statuts, car elles seules vont devenir membres de l’association et participer aux votes des délibérations suivantes.
-
 ## 2ème délibération
 
 L’assemblée générale constitutive désigne en qualité de premiers membres du
 conseil :
 
-<!-- -« Nom, prénoms, nationalité, adresse et profession de chaque membre du conseil ». -->
-<!-- -« Nom, prénoms, nationalité, adresse et profession de chaque membre du conseil ». -->
-<!-- -« Nom, prénoms, nationalité, adresse et profession de chaque membre du conseil ». -->
-<!-- -« Nom, prénoms, nationalité, adresse et profession de chaque membre du conseil ». -->
+- DÉGOT Christine, CA Alto
+- BRELET Élisabeth, CA Soprano
+- LÉVEILLÉ Philippe, CA Basse
+- LELOUP François, Trésorier
+- LEESCO Léo, Président, CA Ténor
 
 Conformément aux statuts, cette désignation est faite pour une durée expirant lors de l’assemblée générale qui sera appelée à statuer sur les comptes de l’exercice clos le 19 octobre 2026.
 
 Les membres du conseil ainsi désignés acceptent leurs fonctions :
 
-<!-- signer avec Nom Prénom et Fonction -->
