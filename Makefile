@@ -1,4 +1,4 @@
-MD_SOURCES = $(filter-out README.md, $(wildcard *.md))
+MD_SOURCES = $(filter-out ./README.md, $(shell find . -name "*.md"))
 PDF_TARGETS = $(patsubst %.md, %.pdf, $(MD_SOURCES))
 
 all: statuts.pdf $(PDF_TARGETS)
